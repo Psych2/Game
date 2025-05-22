@@ -112,7 +112,7 @@ while not fim:
         if event.type == pygame.QUIT:
             fim = True
    
-    # Movimenta o jogador / Movement of the player
+    # Movimenta o jogador / Moviment the player
     mov_jogador(event)
    
     # Desenha tudo / Draw all
